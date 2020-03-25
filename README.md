@@ -1,2 +1,2 @@
 # Figure_bed_for_blog
-图床测试
+用作博客的图床，采用PicGo进行上传
